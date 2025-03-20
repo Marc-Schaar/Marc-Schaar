@@ -18,12 +18,7 @@ Ich entwickle moderne Webanwendungen mit einem Fokus auf **benutzerfreundliche D
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
 
-🚀 **Fortschritt in meinen Skills:**  
-- **Angular** 🔵🔵🔵🔵🔵  
-- **Firebase** 🔵🔵🔵⚪⚪  
-- **Python & Django** 🔵🔵⚪⚪⚪  
-
----
+-- 
 
 ## 🛠 Fullstack-Weiterbildung  
 Aktuell lerne ich **Python & Django**, um meine Skills im Backend-Bereich auszubauen und Fullstack-Entwicklung zu meistern.  
@@ -40,20 +35,9 @@ Aktuell lerne ich **Python & Django**, um meine Skills im Backend-Bereich auszub
 📈 **Aktivitätsübersicht**  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marc-schaar&theme=tokyonight)  
 
-🔥 **Weitere Statistiken**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marc-schaar&show_icons=true&theme=tokyonight)  
+🔥 **Weitere Statistiken**   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-schaar&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marc-schaar&theme=tokyonight)  
 
 📊 **Commit-Zeiten**  
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marc-schaar&theme=tokyonight)  
-
----
-
-## ✍️ Letzte Blogposts  
-Falls du einen Blog hast, kannst du deine neuesten Artikel hier anzeigen lassen:  
-```md
-<!-- BLOG-POST-LIST:START -->
-- [Mein neuer Blogpost](https://blog.example.com/mein-post)
-- [Ein weiteres cooles Thema](https://blog.example.com/cooles-thema)
-<!-- BLOG-POST-LIST:END -->
