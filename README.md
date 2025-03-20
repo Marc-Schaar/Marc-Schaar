@@ -14,7 +14,8 @@ Ich entwickle moderne Webanwendungen mit einem Fokus auf **benutzerfreundliche D
 Aktuell lerne ich **Python & Django**, um meine Skills im Backend-Bereich auszubauen und Fullstack-Entwicklung zu meistern.  
 
 🔧 **Aktuelle Projekte:**  
-🏗️ Umsetzung eigener Webprojekte & Weiterentwicklung meiner Skills  
+- 💬 **Chat-Messenger (Slack-Clone)** mit Angular, Material Design & Firebase  
+- 🏗️ Umsetzung eigener Webprojekte & Weiterentwicklung meiner Skills  
 
 💡 **Fun Fact:** Ich liebe guten Kaffee und mahle meine Bohnen selbst für meine Bialetti! ☕  
 
