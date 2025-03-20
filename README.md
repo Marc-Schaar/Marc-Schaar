@@ -2,6 +2,11 @@
 
 🚀 **Frontend Developer** | 🎨 SCSS | ⚡ Angular | 🔥 Firebase  
 
+📊 **GitHub-Statistiken**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marc-schaar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-schaar&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-strea
+
 Ich entwickle moderne Webanwendungen mit einem Fokus auf **benutzerfreundliche Designs** und **performante Implementierungen**.  
 
 🌍 **Website:** [marc-schaar.com](https://marc-schaar.com)  
