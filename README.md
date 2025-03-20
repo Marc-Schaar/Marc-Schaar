@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer** | 🎨 SCSS | ⚡ Angular | 🔥 Firebase  
 
-📊 **GitHub-Statistiken**  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marc-schaar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-schaar&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marc-schaar&theme=radical)  
