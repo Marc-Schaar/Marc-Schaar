@@ -22,6 +22,5 @@ Aktuell lerne ich **Python & Django**, um meine Skills im Backend-Bereich auszub
 📫 **Kontakt:**  
 Wenn du mit mir zusammenarbeiten möchtest, schreib mir gerne!  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marc-schaar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-schaar&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marc-schaar&theme=radical)  
