@@ -4,7 +4,7 @@
 
 Ich entwickle moderne Webanwendungen mit einem Fokus auf **benutzerfreundliche Designs** und **performante Implementierungen**.  
 
-🌍 **Website:** [marc-schaar.com](https://marc-schaar.com)  
+🌍 **Portfolio:** [marc-schaar.com](https://marc-schaar.com)  
 
 ---
 
