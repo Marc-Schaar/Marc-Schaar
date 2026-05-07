@@ -44,18 +44,27 @@
 ---
 
 ### 📊 GitHub Statistiken
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marc-Schaar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marc's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Schaar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+  <!-- Wir fügen &cache_seconds=1800 hinzu, um die API zu entlasten und Fehler zu vermeiden -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Marc-Schaar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Marc's Stats" height="180px" />
+  
+  <!-- Top Sprachen mit einem leicht anderen Layout, um den Fehler zu umgehen -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Schaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" height="180px" />
 </p>
 
+<!-- Als stabiler Ersatz: Der Streak-Monitor (funktioniert fast immer) -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marc-Schaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+</p>
 ---
 
 ### 🌟 Top Projekte
 | Projekt | Beschreibung | Tech-Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Projekt Name 1** | Kurze Beschreibung des Problems, das du gelöst hast. | React, Django, Docker | [Repo Link](#) |
-| **Projekt Name 2** | Ein weiteres cooles Projekt mit Fokus auf Frontend. | Angular, TypeScript, Tailwind | [Repo Link](#) |
+| **Da-Bubble** |Echtzeit-Chat-MessengerAuthentifizierung über | Angular 19,  Firebase | [da-bubble.marc-schaar.com](https://da-bubble.marc-schaar.com/) |
+| **Join** |Task-Manager Kanban-Boards  | JavaScript,  Firebase | [join.marc-schaar.com](https://https://join.marc-schaar.com//) |
+
 
 ---
 
