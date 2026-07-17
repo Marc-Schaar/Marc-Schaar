@@ -21,9 +21,7 @@
 - 🔭 **Aktuell:** Ich vertiefe mein Wissen in Full-Stack-Architekturen, sauberen Service-Layer-Designs und Cloud-Deployment.
 - ⚡ **Mein Ziel:** Komplexe fachliche Anforderungen in einfache, intuitive und wartbare Softwarelösungen zu verwandeln.
 - 🛠 **Philosophie:** Clean Code, Single-Responsibility, DRY und testgetriebene Entwicklung mit pytest & Co.
-- 🚴 **Nebenbei:** Ich baue an **KudosCare**, einer Strava-integrierten Cycling-App mit Gegenwindanalyse und Routenvisualisierung. Der Verschleiß der Bike-Komponenten wird dabei nicht nur nach Nutzung, sondern auch wetterabhängig bewertet und mittels KI ermittelt.
-
----
+- 🚴 **Nebenbei:** Ich entwickle **KudosCare**, eine Strava-integrierte Cycling-App, deren Hauptfokus auf einem intelligenten, wetterabhängigen Verschleiß-Tracking für Fahrradkomponenten liegt. Statt Verschleiß nur stumpf nach Kilometern zu berechnen, kombiniert die App die gefahrenen Aktivitäten mit präzisen historischen Wetterdaten (wie Regen, Nässe und Umwelteinflüssen). Mittels KI wird so der reale Zustand von Kette, Kassette & Co. dynamisch ermittelt, um präzise Wartungsvorhersagen zu treffen. Eine Routenvisualisierung und Gegenwindanalyse runden das Tool ab.
 
 ### 🛠 Mein Tech-Stack
 
