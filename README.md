@@ -63,14 +63,15 @@
 ### 📊 GitHub Statistiken
 
 <!--
-Diese Karte wird NICHT live von einem Drittanbieter-Server gerendert, sondern einmal täglich per
+Diese Karten werden NICHT live von einem Drittanbieter-Server gerendert, sondern einmal täglich per
 GitHub Actions (.github/workflows/metrics.yml, lowlighter/metrics) generiert und direkt in dieses
-Repo committet. Dadurch keine Abhängigkeit mehr von überlasteten Vercel-Instanzen.
-Solange der Workflow noch nicht gelaufen ist, existiert die Datei github-metrics.svg noch nicht
-und das Bild bleibt leer/kaputt — einmal committen & den Actions-Tab abwarten, dann lädt es.
+Repo committet. Bewusst in zwei kompakte Karten aufgeteilt (statt einer riesigen), damit die Höhe
+im Profil nicht ausufert. Solange der Workflow noch nicht gelaufen ist, existieren die Dateien
+metrics.base.svg / metrics.languages.svg noch nicht — einmal committen & Actions-Tab abwarten.
 -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/metrics.base.svg" alt="GitHub Metrics" width="58%" />
+  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/metrics.languages.svg" alt="Top Languages" width="38%" />
 </p>
 
 <p align="left">
@@ -87,7 +88,7 @@ und das Bild bleibt leer/kaputt — einmal committen & den Actions-Tab abwarten,
 | **[Join](https://github.com/Marc-Schaar/Join)** | Task-Manager mit Kanban-Boards, Drag & Drop und Kontaktverwaltung | JavaScript, Firebase | [join.marc-schaar.com](https://join.marc-schaar.com/) |
 | **[coderr_backend](https://github.com/Marc-Schaar/coderr_backend)** | Backend einer Freelancer-Plattform: APIs, Auth, Projekt- & Profilverwaltung, File-Handling | Python, Django REST Framework | [Repo](https://github.com/Marc-Schaar/coderr_backend) |
 | **[quizly_backend](https://github.com/Marc-Schaar/quizly_backend)** | Django-REST-API für eine KI-basierte Quiz-Anwendung, entwickelt für nahtlose Frontend-Integration | Python, Django REST Framework | [Repo](https://github.com/Marc-Schaar/quizly_backend) |
-| **[kan_mind_backend](https://github.com/Marc-Schaar/kan_mind_backend)** | Backend für ein Kanban-/Projektmanagement-Tool | Python, Django | [kanmind.marc-schaar.com](https://kanmind.marc-schaar.com) |
+| **[kan_mind_backend](https://github.com/Marc-Schaar/kan_mind_backend)** | Backend für ein Kanban-/Projektmanagement-Tool | Python, Django | [Repo](https://github.com/Marc-Schaar/kan_mind_backend) |
 | **[El-Pollo-Loco](https://github.com/Marc-Schaar/El-Pollo-Loco)** | Browserbasiertes 2D-Jump-&-Run-Spiel mit Canvas-Rendering | JavaScript | [Repo](https://github.com/Marc-Schaar/El-Pollo-Loco) |
 
 ---
