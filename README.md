@@ -86,7 +86,7 @@ metrics.base.svg / metrics.languages.svg noch nicht — einmal committen & Actio
 | **[Join](https://github.com/Marc-Schaar/Join)** | Task-Manager mit Kanban-Boards, Drag & Drop und Kontaktverwaltung | JavaScript, Firebase | [join.marc-schaar.com](https://join.marc-schaar.com/) |
 | **[coderr_backend](https://github.com/Marc-Schaar/coderr_backend)** | Backend einer Freelancer-Plattform: APIs, Auth, Projekt- & Profilverwaltung, File-Handling | Python, Django REST Framework | [Repo](https://github.com/Marc-Schaar/coderr_backend) |
 | **[quizly_backend](https://github.com/Marc-Schaar/quizly_backend)** | Django-REST-API für eine KI-basierte Quiz-Anwendung, entwickelt für nahtlose Frontend-Integration | Python, Django REST Framework | [Repo](https://github.com/Marc-Schaar/quizly_backend) |
-| **[kan_mind_backend](https://github.com/Marc-Schaar/kan_mind_backend)** | Backend für ein Kanban-/Projektmanagement-Tool | Python, Django | [Repo](https://github.com/Marc-Schaar/kan_mind_backend) |
+| **[kan_mind_backend](https://github.com/Marc-Schaar/kan_mind_backend)** | Backend für ein Kanban-/Projektmanagement-Tool | Python, Django | [kanmind.marc-schaar.com](https://kanmind.marc-schaar.com) |
 | **[El-Pollo-Loco](https://github.com/Marc-Schaar/El-Pollo-Loco)** | Browserbasiertes 2D-Jump-&-Run-Spiel mit Canvas-Rendering | JavaScript | [Repo](https://github.com/Marc-Schaar/El-Pollo-Loco) |
 
 ---
