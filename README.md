@@ -21,6 +21,7 @@
 - 🔭 **Aktuell:** Ich vertiefe mein Wissen in Full-Stack-Architekturen, sauberen Service-Layer-Designs und Cloud-Deployment.
 - ⚡ **Mein Ziel:** Komplexe fachliche Anforderungen in einfache, intuitive und wartbare Softwarelösungen zu verwandeln.
 - 🛠 **Philosophie:** Clean Code, Single-Responsibility, DRY und testgetriebene Entwicklung mit pytest & Co.
+- 🤖 **KI-Integration:** Ich baue produktive Multi-Provider-LLM-Anbindungen (Gemini/Groq/Claude) mit strukturierten JSON-Outputs und Fallback-Ketten – von Prompt-Engineering bis zu automatisierten, KI-gestützten Workflows.
 - 🚴 **Nebenbei:** Ich entwickle **KudosCare**, eine Strava-integrierte Cycling-App, deren Hauptfokus auf einem intelligenten, wetterabhängigen Verschleiß-Tracking für Fahrradkomponenten liegt. Statt Verschleiß nur stumpf nach Kilometern zu berechnen, kombiniert die App die gefahrenen Aktivitäten mit präzisen historischen Wetterdaten (wie Regen, Nässe und Umwelteinflüssen). Mittels KI wird so der reale Zustand von Kette, Kassette & Co. dynamisch ermittelt, um präzise Wartungsvorhersagen zu treffen. Eine Routenvisualisierung und Gegenwindanalyse runden das Tool ab.
 
 ### 🛠 Mein Tech-Stack
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
 </p>
 
 **Backend & Datenbanken**
@@ -43,7 +45,17 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+**KI-Integration & Prompt Engineering**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" alt="OpenAI" />
 </p>
 
 **DevOps & Tools**
@@ -52,6 +64,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </p>
