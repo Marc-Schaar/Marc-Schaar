@@ -1,118 +1,142 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
+# Marc Schaar
 
-# Hi, ich bin Marc Schaar
+### Full-Stack Developer · Python / Django REST Framework · TypeScript / Angular
 
-### Full-Stack Developer · Angular & Django · Python & TypeScript Enthusiast
+Ich baue produktive Webanwendungen von der Datenbank bis zur Oberfläche –<br/>
+mit klarer Architektur, testgetrieben und automatisiert ausgeliefert.
 
-*Ich entwickle moderne, skalierbare Webanwendungen mit Fokus auf Performance, sauberen Code und durchdachte Architektur.*
-
-<a href="https://marc-schaar.com"><img src="https://img.shields.io/badge/Portfolio-marc--schaar.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:kontakt@marc-schaar.com"><img src="https://img.shields.io/badge/Kontakt-kontakt%40marc--schaar.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://marc-schaar.com"><img src="https://img.shields.io/badge/Portfolio-marc--schaar.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:kontakt@marc-schaar.com"><img src="https://img.shields.io/badge/E--Mail-kontakt%40marc--schaar.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" /></a>
 
 </div>
 
 ---
 
-### 👨‍💻 Über mich
+## Kurzprofil
 
-- 🏢 **Beruflich:** Ich bin Full-Stack-Entwickler und verantworte als Teil meines Teams produktive Angular- und Django-REST-Framework-Anwendungen — von der Architektur über API-Design bis zum Deployment.
-- 🔭 **Aktuell:** Ich vertiefe mein Wissen in Full-Stack-Architekturen, sauberen Service-Layer-Designs und Cloud-Deployment.
-- ⚡ **Mein Ziel:** Komplexe fachliche Anforderungen in einfache, intuitive und wartbare Softwarelösungen zu verwandeln.
-- 🛠 **Philosophie:** Clean Code, Single-Responsibility, DRY und testgetriebene Entwicklung mit pytest & Co.
-- 🤖 **KI-Integration:** Ich baue produktive Multi-Provider-LLM-Anbindungen (Gemini/Groq/Claude) mit strukturierten JSON-Outputs und Fallback-Ketten – von Prompt-Engineering bis zu automatisierten, KI-gestützten Workflows.
-- 🚴 **Nebenbei:** Ich entwickle **KudosCare**, eine Strava-integrierte Cycling-App, deren Hauptfokus auf einem intelligenten, wetterabhängigen Verschleiß-Tracking für Fahrradkomponenten liegt. Statt Verschleiß nur stumpf nach Kilometern zu berechnen, kombiniert die App die gefahrenen Aktivitäten mit präzisen historischen Wetterdaten (wie Regen, Nässe und Umwelteinflüssen). Mittels KI wird so der reale Zustand von Kette, Kassette & Co. dynamisch ermittelt, um präzise Wartungsvorhersagen zu treffen. Eine Routenvisualisierung und Gegenwindanalyse runden das Tool ab.
+Full-Stack-Entwickler mit Schwerpunkt auf **Django REST Framework** im Backend und **Angular** im Frontend. Beruflich entwickle und betreibe ich eine produktive Dokumentationsplattform für Prüfungen und Wartungen – von Datenmodell und API-Design über PDF-Erzeugung und Schnittstellen zu Drittsystemen bis zum Deployment auf eigenem Linux-Server.
 
-### 🛠 Mein Tech-Stack
+Mein Anspruch: fachlich komplexe Abläufe in Software übersetzen, die verständlich, testbar und wartbar bleibt.
 
-**Frontend**
+> 🇬🇧 **English:** Full-stack developer (Python/Django REST Framework, TypeScript/Angular). I build and run production web apps end to end – data modelling, API design, CI/CD and Linux deployment – with a test-driven, service-layer architecture and pragmatic LLM integrations.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
-</p>
+## Was ich mitbringe
 
-**Backend & Datenbanken**
+- **Backend-Architektur:** Service-/Selector-Layer statt Fachlogik in Views und Serializern, explizite Serializer, rollenbasierte Rechte (RBAC), OpenAPI-Verträge (drf-spectacular) zwischen Backend und Frontend
+- **Qualität als Standard:** TDD mit pytest, Postman-Collections als Abnahmetests, ruff, mypy, import-linter und automatisch geprüfte Größenlimits je Funktion und Datei
+- **Modernes Angular:** Standalone Components, Signals, strict TypeScript, Tailwind CSS, Vitest (Angular 19 – 22)
+- **Asynchrone Verarbeitung & Daten:** PostgreSQL/PostGIS, Celery, Redis, RQ, pg-boss für Hintergrundjobs, Synchronisation und Transcoding
+- **Betrieb:** GitHub Actions, Docker, Gunicorn, Nginx, Supervisor, Deploy-Skripte mit CI-Gate auf Ubuntu-Servern
+- **KI-Integration:** Multi-Provider-Anbindungen (Gemini mit Groq-Fallback, Claude) mit strukturierten JSON-Ausgaben – die KI erklärt berechnete Ergebnisse, die Berechnung selbst bleibt deterministisch und testbar
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+## Tech-Stack
 
-**KI-Integration & Prompt Engineering**
+**Backend** &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" alt="OpenAI" />
-</p>
+**Frontend** &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
-**DevOps & Tools**
+**Daten** &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-</p>
+**Qualität & Betrieb** &nbsp;
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+
+**KI** &nbsp;
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 
 ---
 
-### 📊 GitHub Statistiken
+## Ausgewählte Projekte
+
+### 🚴 Kudos Care – Wartungs-Tracking mit Strava-Integration
+[Backend](https://github.com/Marc-Schaar/kudos_care_backend) · [Frontend](https://github.com/Marc-Schaar/kudos-care) · *produktiv auf eigenem Server*
+
+Synchronisiert Fahrten und Räder per Strava-OAuth, ergänzt jede Fahrt um historische Wetter- und Winddaten und berechnet den Verschleiß von Kette, Reifen, Bremsbelägen & Co. – gewichtet nach Regen, Hitze, Kälte und Wind – mit Status `ok` / `warn` / `critical`. Eine optionale KI-Schicht erklärt die Ergebnisse in Klartext.
+
+`Django 6` `DRF` `PostGIS` `Celery/Redis` `Angular 21 (Signals)` `Tailwind v4` `MapLibre` `Gemini/Groq`
+
+### 🎬 Videoflix – Video-Streaming-API
+[Repository](https://github.com/Marc-Schaar/videoflix_backend) · [Live](https://videoflix.marc-schaar.com)
+
+Streaming-Backend mit automatischem HLS-Transcoding in mehreren Auflösungen über eine Job-Queue sowie JWT-Authentifizierung über HttpOnly-Cookies.
+
+`Django` `DRF` `ffmpeg` `Redis/RQ` `Docker` `CI/CD`
+
+### 📋 KanMind – Kanban-API mit Rollenrechten
+[Repository](https://github.com/Marc-Schaar/kan_mind_backend) · [Live](https://kanmind.marc-schaar.com)
+
+Mehrbenutzer-Kanban-Backend mit Token-Authentifizierung, strikter rollenbasierter Zugriffskontrolle und Integrationstests.
+
+`Django` `DRF` `RBAC` `pytest`
+
+### 💼 Coderr – Freelancer-Plattform
+[Repository](https://github.com/Marc-Schaar/coderr_backend) · [Live](https://coderr.marc-schaar.com)
+
+REST-API für einen Freelancer-Marktplatz: Angebote, Bestellungen und Bewertungen mit feingranularen Berechtigungen, containerisiert und per CI/CD ausgeliefert.
+
+`Django` `DRF` `Docker` `GitHub Actions`
+
+### 💬 DA-Bubble – Team-Chat in Echtzeit
+[Repository](https://github.com/Marc-Schaar/da-bubble) · [Live](https://da-bubble.marc-schaar.com)
+
+Slack-inspirierter Messenger mit Channels, Threads, Direktnachrichten und Mentions.
+
+`Angular 19 (Standalone, Signals)` `Firebase`
+
+<details>
+<summary><b>Weitere Projekte</b></summary>
+<br/>
+
+| Projekt | Beschreibung | Stack |
+| :--- | :--- | :--- |
+| [Quizly](https://github.com/Marc-Schaar/quizly_backend) | REST-API für eine KI-gestützte Quiz-Anwendung | Django, DRF |
+| [Join](https://github.com/Marc-Schaar/Join) · [Live](https://join.marc-schaar.com) | Kanban-Task-Manager mit Drag & Drop und Kontaktverwaltung | JavaScript (OOP), Firebase |
+| [El Pollo Loco](https://github.com/Marc-Schaar/El-Pollo-Loco) · [Live](https://el-pollo-loco.marc-schaar.com) | 2D-Jump-'n'-Run im Browser | JavaScript, HTML5 Canvas |
+
+</details>
+
+**Beruflich & nicht öffentlich:** Dokumentationsplattform für Prüfungen und Wartungen (Django 5.2 LTS, DRF, Angular 22, PDF-Erzeugung, digitale Signatur, IP-gesicherte Integrations-API) sowie ein Backend für Instandhaltung und Lufttüchtigkeit von Segelflugzeugen nach Part-ML/Part-CAO (Django 6, PostgreSQL 18, Python 3.14). Details gern im Gespräch.
+
+---
+
+## GitHub-Aktivität
 
 <!--
-Diese Karten werden NICHT live von einem Drittanbieter-Server gerendert, sondern einmal täglich per
-GitHub Actions (.github/workflows/metrics.yml, lowlighter/metrics) generiert und direkt in dieses
-Repo committet. Bewusst in zwei kompakte Karten aufgeteilt (statt einer riesigen), damit die Höhe
-im Profil nicht ausufert. Solange der Workflow noch nicht gelaufen ist, existieren die Dateien
-metrics.base.svg / metrics.languages.svg noch nicht — einmal committen & Actions-Tab abwarten.
+Die Karten werden einmal täglich per GitHub Actions (.github/workflows/metrics.yml, lowlighter/metrics)
+generiert und direkt in dieses Repo committet – kein Live-Rendering durch Drittanbieter.
 -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/metrics.base.svg" alt="GitHub Metrics" width="58%" />
-  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/metrics.languages.svg" alt="Top Languages" width="38%" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Marc-Schaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/metrics.base.svg" alt="GitHub-Metriken" width="58%" />
+  <img src="https://raw.githubusercontent.com/Marc-Schaar/Marc-Schaar/main/metrics.languages.svg" alt="Meistgenutzte Sprachen" width="38%" />
 </p>
 
 ---
 
-### 🌟 Ausgewählte Projekte
+## Kontakt
 
-| Projekt | Beschreibung | Tech-Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Da-Bubble](https://github.com/Marc-Schaar/da-bubble)** | Echtzeit-Chat-Messenger mit Authentifizierung, Channels und Direktnachrichten | Angular 19, Firebase | [da-bubble.marc-schaar.com](https://da-bubble.marc-schaar.com/) |
-| **[Join](https://github.com/Marc-Schaar/Join)** | Task-Manager mit Kanban-Boards, Drag & Drop und Kontaktverwaltung | JavaScript, Firebase | [join.marc-schaar.com](https://join.marc-schaar.com/) |
-| **[coderr_backend](https://github.com/Marc-Schaar/coderr_backend)** | Backend einer Freelancer-Plattform: APIs, Auth, Projekt- & Profilverwaltung, File-Handling | Python, Django REST Framework | [coderr.marc-schaar.com](https://coderr.marc-schaar.com/) |
-| **[quizly_backend](https://github.com/Marc-Schaar/quizly_backend)** | Django-REST-API für eine KI-basierte Quiz-Anwendung, entwickelt für nahtlose Frontend-Integration | Python, Django REST Framework | [Repo](https://github.com/Marc-Schaar/quizly_backend) |
-| **[kan_mind_backend](https://github.com/Marc-Schaar/kan_mind_backend)** | Backend für ein Kanban-Board mit rollenbasierten Berechtigungen und Produktiv-Deployment | Python, Django REST Framework | [kanmind.marc-schaar.com](https://kanmind.marc-schaar.com) |
-| **[El-Pollo-Loco](https://github.com/Marc-Schaar/El-Pollo-Loco)** | Browserbasiertes 2D-Jump-&-Run-Spiel mit Canvas-Rendering | JavaScript | [el-pollo-loco.marc-schaar.com](https://el-pollo-loco.marc-schaar.com) |
-| **[videoflix_backend](https://github.com/Marc-Schaar/videoflix_backend)** | Netflix-artige Video-Streaming-API mit automatischem HLS-Transcoding und JWT-Auth über HttpOnly-Cookies | Python, Django REST Framework | [videoflix.marc-schaar.com](https://videoflix.marc-schaar.com) |
+Ich freue mich über Nachrichten zu Projekten, Zusammenarbeit oder spannenden Positionen.
 
----
-
-### 📫 Kontakt
-
-- 📧 **E-Mail:** [kontakt@marc-schaar.com](mailto:kontakt@marc-schaar.com)
-- 🌍 **Portfolio:** [marc-schaar.com](https://marc-schaar.com)
-- 💼 **GitHub:** [@Marc-Schaar](https://github.com/Marc-Schaar)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marc-Schaar&label=Profil-Besuche&color=0e75b6&style=flat" alt="Views" />
-</p>
+📧 [kontakt@marc-schaar.com](mailto:kontakt@marc-schaar.com) &nbsp;·&nbsp; 🌍 [marc-schaar.com](https://marc-schaar.com)
